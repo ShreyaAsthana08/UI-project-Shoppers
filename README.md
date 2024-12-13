@@ -90,3 +90,16 @@ Integration of dynamic elements like animations for the banner.
 Development of a mobile-responsive version of the design.
 
 Implementation of an interactive product recommendation feature.
+
+
+
+
+
+
+
+![Frame 1](https://github.com/user-attachments/assets/6116d1f5-acc4-42f3-8fcd-1abd03a60534)
+![Shoppers_login UI](https://github.com/user-attachments/assets/04318b4c-7624-4954-92fe-ce649e250802)
+
+
+
+
