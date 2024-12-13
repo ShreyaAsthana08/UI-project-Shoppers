@@ -2,6 +2,11 @@
 
 Project Title: Shoppers UI Design Prototype
 
+Link:  https://www.figma.com/proto/oYWl5ipJItpTPwXwcAPKq1/second-file?node-id=240-3&starting-point-node-id=306%3A1881&t=If6pKcG29hhw8h7B-1 
+
+Behance Link : https://www.behance.net/gallery/208235363/Shopping-Website-UI-%28website-design%29
+
+
 Overview:
 This project involved the creation of a modern, visually appealing, and user-friendly interface for an e-commerce website called "Shoppers." The goal was to design a layout that enhances the shopping experience for users while aligning with the client's brand identity. This project was a freelance assignment for a friend who needed a professional design to kickstart their online retail platform. The result was a vibrant, responsive, and engaging UI design that the client highly appreciated.
 
