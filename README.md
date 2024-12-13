@@ -2,7 +2,7 @@
 
 Project Title: Shoppers UI Design Prototype
 
-Link:  https://www.figma.com/proto/oYWl5ipJItpTPwXwcAPKq1/second-file?node-id=240-3&starting-point-node-id=306%3A1881&t=If6pKcG29hhw8h7B-1 
+Figma Link:  https://www.figma.com/proto/oYWl5ipJItpTPwXwcAPKq1/second-file?node-id=240-3&starting-point-node-id=306%3A1881&t=If6pKcG29hhw8h7B-1 
 
 Behance Link : https://www.behance.net/gallery/208235363/Shopping-Website-UI-%28website-design%29
 
